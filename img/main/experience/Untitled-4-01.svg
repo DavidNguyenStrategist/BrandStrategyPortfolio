@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #f8a120;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-5 {
+        fill: #a0cc3b;
+      }
+
+      .cls-3 {
+        font-family: UTMAvoBold, 'UTM Avo';
+        font-size: 21.34px;
+        letter-spacing: .02em;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="28.3" y1="91.76" x2="54.11" y2="89.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e99e24"/>
+      <stop offset="1" stop-color="#e32228"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="52.25" y1="122.82" x2="28.15" y2="102.85" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="53.35" y1="97.97" x2="55.41" y2="119.8" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="51.97" y1="85.68" x2="51.05" y2="91.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ee4a23"/>
+      <stop offset="1" stop-color="#e32228"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="22.45" y1="100.81" x2="35.95" y2="107.36" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-6" x1="50.44" y1="109.51" x2="55.73" y2="119.83" xlink:href="#linear-gradient-4"/>
+  </defs>
+  <circle class="cls-5" cx="100" cy="100" r="86.3"/>
+  <g>
+    <text class="cls-3" transform="translate(73.73 111.18)"><tspan x="0" y="0">BALIOGO</tspan></text>
+    <g>
+      <polygon class="cls-8" points="52.58 80.57 46.05 91.74 30.97 91.74 26.71 99.18 49.86 99.18 56.58 87.56 52.58 80.57"/>
+      <polygon class="cls-1" points="21.52 108.05 34.46 108.17 41.95 121.25 50.54 121.25 39.03 101.16 25.6 101.11 21.52 108.05"/>
+      <polygon class="cls-7" points="60.9 121.11 54.35 109.95 61.71 96.8 57.3 89.43 45.99 109.64 52.85 121.18 60.9 121.11"/>
+      <circle class="cls-2" cx="41.64" cy="83.34" r="4.59"/>
+      <circle class="cls-2" cx="63.62" cy="109.89" r="4.59"/>
+      <circle class="cls-2" cx="30.02" cy="115.76" r="4.59"/>
+      <polygon class="cls-9" points="46.05 91.74 49.86 99.18 56.58 87.56 52.58 80.57 46.05 91.74"/>
+      <polygon class="cls-6" points="25.6 101.11 39.03 101.16 34.46 108.17 21.52 108.05 25.6 101.11"/>
+      <polygon class="cls-4" points="45.99 109.64 52.85 121.18 60.9 121.11 54.35 109.95 45.99 109.64"/>
+    </g>
+  </g>
+</svg>
